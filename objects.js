@@ -1,6 +1,6 @@
 var playlist = {
-  Elton John: 'Tiny Dancer',
-  Ed Sheeran: 'Galway Girl',
+  'Elton John': 'Tiny Dancer',
+  'Ed Sheeran': 'Galway Girl',
 }
 function updatePlaylist (playlist, name, title) {
   playlist[name] = title
